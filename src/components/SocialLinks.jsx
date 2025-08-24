@@ -15,7 +15,7 @@ const socialLinks = [
     displayName: "Let's Connect",
     subText: "on LinkedIn",
     icon: Linkedin,
-    url: "",
+    url: "https://www.linkedin.com/in/diky-bintang-pamungkas-86661437b/",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true,
@@ -299,5 +299,6 @@ const SocialLinks = () => {
     </div>
   );
 };
+
 
 export default SocialLinks;
