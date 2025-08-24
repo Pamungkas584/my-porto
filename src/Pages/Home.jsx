@@ -81,7 +81,7 @@ const WORDS = ["Informatics Student", "AI Technology Enthusiast"];
 const TECH_STACK = ["Python", "C++", "Pandas", "Numpy"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/Pamungkas584" },
-  { icon: Linkedin, link: "" }, // LINKEDIN
+  { icon: Linkedin, link: "https://www.linkedin.com/in/diky-bintang-pamungkas-8666143" }, // LINKEDIN
   { icon: Instagram, link: "https://www.instagram.com/diky_bintang/" }
 ];
 
@@ -242,5 +242,6 @@ const Home = () => {
     </div>
   );
 };
+
 
 export default memo(Home);
